@@ -1,0 +1,192 @@
+Job,JD
+windows kernel,"The Principle/Sr. Windows Kernel Developer will be responsible for developing and maintaining File System drivers on Windows platforms for High Availability and Disaster Recovery product.  This position requires exceptional C\C++ skills and knowledge of OS internals. The Principle/Sr. Windows Kernel Developer will join distributed agile team and will work on implementation of new features and support for new platforms. Responsibilities will also include research/POC activities and work on customer issues. 
+Key Results Areas: 
+•	Develop and maintain File System mini filter drivers and supplementary user mode components on Windows. 
+•	Work with distributed team of agile and highly skilled developers to support new platforms and deliver new features for HA and DR product. 
+•	Assist with automation of build management and unit testing on Windows platforms. 
+•	Research and prototype support for new platforms/OS. 
+•	Work on customer issues. 
+•	Perform other duties as assigned. 
+ 
+Education/Certification Requirements: 	 	 
+•	Bachelor’s Degree in Computer Science or Applied Math or equivalent combination of education and experience 
+Work Experience: 	 	 
+•	Minimum 7 years of continuous Windows driver development experience.  
+Required Job Qualifications: 	 	 
+ 
+•	7+ years of hands on continuous experience with developing kernel mode drivers on Windows. 
+•	Experience/Knowledge of File systems and Storage stack (internals/implementation). 
+•	Experience with developing mini-filters  
+•	Proficiency with cross platform C++ (C11 and later) . 
+Proficiency with OOP, algorithms, patterns."
+cloudops,"Essential Job Responsibilities:
+•	Operate a scalable reliable server infrastructure with ability to see the process through from inception through production.
+•	Perform technical planning, system integration, verification and validation of systems.
+•	Evaluate customer requirements and implement compliant engineering architecture designs and documentation.
+•	Operate and maintain systems in our corporate data centers and in public cloud (AWS, Azure, and Google).
+•	Provide technical input to software development team to ensure system design and delivery schedules are properly developed and implemented.
+•	Identify and troubleshoot issues while working with the team to efficiently solve problems and implement solutions. Perform root cause analysis of critical incidents, engineer permanent solutions, and coordinate implementation.
+•	Work with cutting edge technology to help define Backup as a Service (BaaS) and Data Recovery as a Service (DRaaS).
+•	Perform other duties as required.
+Required Job Qualifications:
+•	Bachelor's Degree in Computer Science, Engineering or related field or equivalent combination of education and experience.
+•	Familiar with Windows and Linux production support including network security.
+•	Familiar with OpenStack and KVM.
+•	Familiar with configuration and management of Network Switching etc.
+•	Ability to automate tasks using scripting (e.g. bash, Python, etc).
+•	Experience with hard disks/raid/storage controllers/filesystems/SAN.
+•	Knowledge of configuration management and monitoring tools such as Salt/CFengine/Chef, XYMON, and Nagios.
+•	Ability to produce detailed technical documentation and updated records of work performed while adhering to customer requirements and standards.
+•	Strong interpersonal communication and organizational skills to work with clients, team members, and management staff.
+Preferred Job Qualifications:
+•	Knowledgeable in storage and disaster recovery infrastructure and technology.
+•	Demonstrated analytical and critical thinking skills sufficient to meet project objectives.
+•	Capacity to work closely with cross-functional groups in a collaborative, team environment.
+•	Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner.
+•	Ability to work independently or as part of a team environment.
+•	Ability to manage multiple projects in a fast-paced environment."
+senior java developer,"Required Job Qualifications:
+•	5+ years of Java development experience including excellent object-orientated programming skills
+•	Experience consuming and creating RESTful web services.
+•	Agile development experience 
+•	Capacity and willingness to contribute to a robust set of unit tests (jUnit)
+•	Experience building and debugging complex systems in a team environment
+•	Experience working with SQL queries, query optimization and a practical knowledge of database concepts.
+•	Capacity to work closely with cross-functional groups in a collaborative, team environment.
+•	Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner.
+
+
+Preferred Job Qualifications:
+?	Exposure to the following tools/frameworks/libraries
+?	SpringBoot
+?	Jersey REST Framework
+?	Hibernate ORM
+?	Maven
+?	Quartz Scheduler
+?	jUnit
+?	Microservice development experience (Java SpringBoot)
+?	Familiarity with NoSQL databases (Redis, MongoDB, DynamoDB)
+?	Experience working with remote and global teams
+?	Excellent communication and documentation skills
+?	Team player, self-driven researcher
+?	Working knowledge of data storage concepts and disaster recovery infrastructure/technology"
+senior or principal java developer,"Key Responsibilities
+?	Design and code complex units/modules/products that meet functional and business requirements on schedule and within budget. 
+?	Perform unit/module testing of software to find errors and confirm programs meet specifications. 
+?	Fix bugs/customer issue, add enhancements, and convert software to other platforms. 
+?	Assist quality assurance team by providing assistance to testers and support personnel as needed to identify product issues. 
+?	Collaborate with quality assurance in creation of their test plans and participate in reviews. 
+?	Evaluate impact of software performance and recommend changes to software design team.
+?	Write and maintain documentation to describe program development, logic, coding, testing, changes, and corrections.
+?	Provide product content to technical writers. 
+?	Assist in strategic research and design as directed 
+?	Set up software configuration control and software development environments including program source control to ensure reliable backups and source code integrity.
+?	Provide input to establish and improve departmental processes and procedures.
+?	Develop plans outlining steps and timetables for developing programs and communicate plans and status to management and other development team members.
+?	Escalate issues to management as appropriate.
+?	Participate in design and code reviews with other developers. 
+Preferred Education
+Bachelor's Degree or global equivalent in Computer Science or related discipline. Master's degree or global equivalent a plus.
+Work Experience
+For Senior SE: Typically 5 or more years of experience (3 to 5 years with a Master's Degree) in software development.
+For Principle SE: Typically 7 or more years of experience (5 to 7 years with a Master's Degree) in software development.
+Skills 
+?	Advanced design/debugging/coding skills. 
+?	Excellent in J2EE
+?	Excellent in WebService development
+?	Excellent in JDBC
+?	Excellent in code refactoring
+?	Excellent in J2EE container or Web server: such as Tomcat/Apache
+?	Good to have experience of using JPA API
+?	Good to have experience of GWT\GXT programming
+?	Good to have RESTful experience
+?	Good in Junit
+?	Familiar with database: such as SQLite/PostgreSQL/SQL Server 
+?	Strong passion and enthusiasm in studying new technology
+?	Strong skills and methodology in issue analysis
+?	Good communication skills in English (presenting, written, and verbal);
+?	Ability to learn, understand, and work in large, complex projects.
+?	Awareness of language and cultural issues related to localization of software."
+manual qa,"Responsibilities
+•	Participate in all phases of our agile software development life cycle, including developing test strategies, test plans, test cases, automation, and execution of manual tests and test scripts.
+•	Document software issues and enhancement requests and assist development with concise and detailed steps for duplication of the problem.
+•	Verify resolved Change Requests and maintain accurate status for Change Requests entered in each project.
+•	Ensure all software products meet the highest quality possible by following industry recognized Q/A methodologies and best practices
+
+Qualifications Needed
+•	Degree in Computer Science, Information Systems, Electrical Engineering or other technical field
+•	Strong knowledge of software development lifecycle, testing methodologies, QA terminology and processes
+•	Experience with Linux and Windows environments
+•	Virtualization experience (VMWare, HyperV, or Virtual Box)
+•	Basic understanding of computer architecture and system troubleshooting
+•	An understanding of storage concepts
+•	Experience with test case management tools such as QC, TestLink or Spira.
+•	Basic knowledge of relational databases such as Mysql, Oracle, or MS SQL
+•	Experience with bug tracking tools such as Jira, Rally or Bugzilla.
+•	Excellent interpersonal, communication skills.
+•	Detail oriented, analytical, methodical and creative thinker with passion for quality.
+
+Preferred Skills
+•	Experience with backup/recovery applications
+•	Networking experience
+•	Experience with Agile SCRUM based software development and test
+•	Experience managing/configuring storage appliances
+•	Test experience with web applications and REST APIs"
+senior qa,"Key Responsibilities
+?	Review Product requirements /Use Cases, Design specifications and provide timely and meaningful feedback
+?	Derive/Design Test Plan/Test Scenarios and Test Cases and ensure overall test coverage for the End-to-End Test Coverage 
+?	Guide and assist junior Engineers in the Team 
+?	Estimate, prioritize, plan and coordinate testing activities
+?	Design, develop and execute automation scripts using in-house/open source tools
+?	Identify, record, document thoroughly and track bugs
+?	Pro-actively Perform thorough Regression testing when bugs are resolved
+?	Track quality assurance metrics, like defect densities and open defect counts
+Key Requirements
+?	Proven 4 to 8 yrs of work experience in Software Quality Engineering on Data Protection Software or equivalent Client/Server Web Applications running on Virtualization Platform (VMWare, Hyper-V), Cloud Platform (AWS, Azure) / Hyper-Converged Infrastructure
+?	Strong knowledge in Enterprise Class Storage Products 
+?	Strong knowledge of Software QA methodologies, tools (like TFS) and processes
+?	 OS (Windows / Linux) Administration knowledge, Includes experience in install/config/troubleshoot/validate applications on Windows/Linux Platforms
+?	 Experience in writing clear, concise, and comprehensive Test Plans & Test Scenarios
+?	 Hands-on experience with both White box & Black box testing
+?	 Strong Programming skills using Java/Python/C/Perl and experience in UI Automation using Selenium or equivalent.
+?	Proven experience working in an Agile/Scrum Release Process
+?	Experience in REST/SOAP API automation is preferred.
+?	 Experience in design/development/enhancement of Automation Frameworks
+?	 Knowledge on Databases (SQL / Exchange) or Microsoft Sharepoint / OneDrive Administration is a plus.
+?	 Expertise in Product Security Testing / with Performance/Scale Testing and Analysis
+?	 BE/BTech Degree in Computer Science, Engineering or a related subject
+?	 Hands-on experience WAN Simulator, Disk IO, Network Bandwidth Calculators will be a plus
+?	 Certifications specific to Cloud, Software Testing is a plus."
+sfdc admin,"Essential Job Responsibilities:
+•	Monitor, triage and resolve employee facing cases.
+•	Monitor, triage and assign out customer-facing cases.
+•	Participate in the deployment and QA and regression testing of Salesforce Critical Updates.
+•	Maintain customer and partner Communities.
+•	Work closely with Salesforce BSA to implement Sales, Marketing, Support related declarative related change. 
+•	Design, implement and maintain reports, and dashboards.
+•	Bulk data updates using Dataloader and/or Workbench.
+•	Maintain and Support Outlook Integration
+•	Maintain and assign user Roles, Profiles and Permission Sets/Groups and policies to users.
+•	Participation in daily SCRUM/AGILE ceremonies and standup meetings.
+•	Participate in CRM data quality related activities.
+
+Required Job Qualifications:
+•	Extensive experience using Salesforce Dataloader and/or Workbench.
+•	Strong background creating Reports, Dashboards and ReportTypes, as well as Lightning Reports and Dashboards.
+•	Experience with Salesforce Communities/Experiences.
+•	Experience with Translation Workbench and Custom Labels.
+•	Prior experience working with Salesforce Knowledge.
+•	Exceptional experience in territory management including, but not limited to: (1) Enterprise TM  (2) Role Hierarchy (3) Exception handling (Named Accounts)  (4) Collaborative Forecasting
+•	Strong background with Process Builder, Workflow (including TimeBased), FieldUpdates, Alerts/Notifications.
+•	Ability to articulate the Salesforce security model including the relationship between Object/Record/Field, interdependencies between Role and Profiles, the 3 types of Permission Sets, and the relationships between PageLayout and RecordTypes.
+•	Must have strong experience with Salesforce Content, including Libraries, Versions and security. 
+•	A basic understanding of Salesforce SSO (SAML, Single SignOn) in the context of Employee and Communities.
+
+Preferred Job Qualifications:
+•	Salesforce Advanced Administrator
+•	Prior experience with a multi-tier distribution or channel-based Go-To-Market strategy
+•	Basic SoQL and/or SQL
+•	Basic understanding of Apex code and triggers
+•	Experience with Jira and Confluence
+•	Experience with Cloudingo and/or equivalent
+•	Experience with Marketo and/or Hubspot"
